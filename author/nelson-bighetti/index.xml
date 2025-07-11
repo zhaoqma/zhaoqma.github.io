@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>Nelson Bighetti | Future Media Computing Lab</title>
+=======
+    <title>Nelson Bighetti | Wowchemy Research Group</title>
+>>>>>>> 904424f44366985561caf41d2de53b92fe51dc8c
     <link>http://localhost:1313/author/nelson-bighetti/</link>
       <atom:link href="http://localhost:1313/author/nelson-bighetti/index.xml" rel="self" type="application/rss+xml" />
     <description>Nelson Bighetti</description>

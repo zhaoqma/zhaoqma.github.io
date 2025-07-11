@@ -6,6 +6,12 @@
       <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Future Media Computing Lab</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu11734318148517933569.png</url>
+      <title>Future Media Computing Lab</title>
+      <link>http://localhost:1313/</link>
+    </image>
+    
     <item>
       <title>Example Event</title>
       <link>http://localhost:1313/event/example/</link>

@@ -2,8 +2,8 @@
   "name": "Future Media Computing Lab",
   "short_name": "Future Media Computing Lab",
   "lang": "en-us",
-  "theme_color": "#fff",
-  "background_color": "#fff",
+  "theme_color": "#1565c0",
+  "background_color": "#1565c0",
   "icons": [{
     "src": "/media/icon_hu11662094479751350503.png",
     "sizes": "192x192",
