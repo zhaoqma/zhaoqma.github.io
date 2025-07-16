@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Latest News | Future Media Computing Lab</title>
-    <link>http://localhost:1313/post/</link>
-      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zhaoqma.github.io/post/</link>
+      <atom:link href="https://zhaoqma.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu16151008530422415607.png</url>
+      <url>https://zhaoqma.github.io/media/icon_hu16151008530422415607.png</url>
       <title>Latest News</title>
-      <link>http://localhost:1313/post/</link>
+      <link>https://zhaoqma.github.io/post/</link>
     </image>
     
     <item>
       <title>Future Media Computing Lab Officially Established</title>
-      <link>http://localhost:1313/post/20-12-02-icml-best-paper/</link>
+      <link>https://zhaoqma.github.io/post/20-12-02-icml-best-paper/</link>
       <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/20-12-02-icml-best-paper/</guid>
+      <guid>https://zhaoqma.github.io/post/20-12-02-icml-best-paper/</guid>
       <description>&lt;p&gt;Congratulations on the official establishment of the Future Media Computing Lab! We look forward to the lab making groundbreaking contributions to the field of AI and intelligent media computing.&lt;/p&gt;
 &lt;p&gt;We are pleased to announce the official establishment of the Future Media Computing Lab (FMCL), a cutting-edge research lab under the School of Information Science and Technology at the University of Science and Technology of China. The lab is led by Professor Xiaojun Chang, a globally recognized expert in multimedia understanding and artificial intelligence, with Professor Xun Yang serving as the deputy director.&lt;/p&gt;
 &lt;p&gt;Future Media Computing Lab is committed to advancing the frontiers of AI-driven media computing, with a focus on intelligent content analysis, generation, interaction, and transmission. The lab aims to bridge the gap between human cognition and machine perception, driving innovation in both theoretical foundations and real-world applications.&lt;/p&gt;

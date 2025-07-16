@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Activity Graph Transformer | Future Media Computing Lab</title>
-    <link>http://localhost:1313/tag/activity-graph-transformer/</link>
-      <atom:link href="http://localhost:1313/tag/activity-graph-transformer/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zhaoqma.github.io/tag/activity-graph-transformer/</link>
+      <atom:link href="https://zhaoqma.github.io/tag/activity-graph-transformer/index.xml" rel="self" type="application/rss+xml" />
     <description>Activity Graph Transformer</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu16151008530422415607.png</url>
+      <url>https://zhaoqma.github.io/media/icon_hu16151008530422415607.png</url>
       <title>Activity Graph Transformer</title>
-      <link>http://localhost:1313/tag/activity-graph-transformer/</link>
+      <link>https://zhaoqma.github.io/tag/activity-graph-transformer/</link>
     </image>
     
     <item>
       <title>TN-ZSTAD: Transferable Network for Zero-Shot Temporal Activity Detection</title>
-      <link>http://localhost:1313/publication/2024-03-05-tn-zstad/</link>
+      <link>https://zhaoqma.github.io/publication/2024-03-05-tn-zstad/</link>
       <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2024-03-05-tn-zstad/</guid>
+      <guid>https://zhaoqma.github.io/publication/2024-03-05-tn-zstad/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

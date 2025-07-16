@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rong Dai | Future Media Computing Lab</title>
-    <link>http://localhost:1313/author/rong-dai/</link>
-      <atom:link href="http://localhost:1313/author/rong-dai/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zhaoqma.github.io/author/rong-dai/</link>
+      <atom:link href="https://zhaoqma.github.io/author/rong-dai/index.xml" rel="self" type="application/rss+xml" />
     <description>Rong Dai</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/rong-dai/avatar_hu4518778887895440234.jpg</url>
+      <url>https://zhaoqma.github.io/author/rong-dai/avatar_hu4518778887895440234.jpg</url>
       <title>Rong Dai</title>
-      <link>http://localhost:1313/author/rong-dai/</link>
+      <link>https://zhaoqma.github.io/author/rong-dai/</link>
     </image>
     
     <item>
       <title>Rong Dai</title>
-      <link>http://localhost:1313/author/rong-dai/</link>
+      <link>https://zhaoqma.github.io/author/rong-dai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/rong-dai/</guid>
+      <guid>https://zhaoqma.github.io/author/rong-dai/</guid>
       <description>&lt;!-- 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 

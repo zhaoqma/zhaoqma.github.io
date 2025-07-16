@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chengqi Zhang | Future Media Computing Lab</title>
-    <link>http://localhost:1313/author/chengqi-zhang/</link>
-      <atom:link href="http://localhost:1313/author/chengqi-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zhaoqma.github.io/author/chengqi-zhang/</link>
+      <atom:link href="https://zhaoqma.github.io/author/chengqi-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Chengqi Zhang</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu16151008530422415607.png</url>
+      <url>https://zhaoqma.github.io/media/icon_hu16151008530422415607.png</url>
       <title>Chengqi Zhang</title>
-      <link>http://localhost:1313/author/chengqi-zhang/</link>
+      <link>https://zhaoqma.github.io/author/chengqi-zhang/</link>
     </image>
     
     <item>
       <title>Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks</title>
-      <link>http://localhost:1313/publication/2020-08-01-connecting-the-dots/</link>
+      <link>https://zhaoqma.github.io/publication/2020-08-01-connecting-the-dots/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2020-08-01-connecting-the-dots/</guid>
+      <guid>https://zhaoqma.github.io/publication/2020-08-01-connecting-the-dots/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Events | Future Media Computing Lab</title>
-    <link>http://localhost:1313/event/</link>
-      <atom:link href="http://localhost:1313/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zhaoqma.github.io/event/</link>
+      <atom:link href="https://zhaoqma.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Events</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu16151008530422415607.png</url>
+      <url>https://zhaoqma.github.io/media/icon_hu16151008530422415607.png</url>
       <title>Recent &amp; Upcoming Events</title>
-      <link>http://localhost:1313/event/</link>
+      <link>https://zhaoqma.github.io/event/</link>
     </image>
     
     <item>
       <title>Future Media Computing Lab Established</title>
-      <link>http://localhost:1313/event/example/</link>
+      <link>https://zhaoqma.github.io/event/example/</link>
       <pubDate>Tue, 01 Jul 2025 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/example/</guid>
+      <guid>https://zhaoqma.github.io/event/example/</guid>
       <description>&lt;!-- 
 Slides can be added in a few ways:
 

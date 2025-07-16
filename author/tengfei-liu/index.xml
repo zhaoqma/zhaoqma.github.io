@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tengfei Liu | Future Media Computing Lab</title>
-    <link>http://localhost:1313/author/tengfei-liu/</link>
-      <atom:link href="http://localhost:1313/author/tengfei-liu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zhaoqma.github.io/author/tengfei-liu/</link>
+      <atom:link href="https://zhaoqma.github.io/author/tengfei-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Tengfei Liu</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/tengfei-liu/avatar_hu16360655292495156640.jpg</url>
+      <url>https://zhaoqma.github.io/author/tengfei-liu/avatar_hu16360655292495156640.jpg</url>
       <title>Tengfei Liu</title>
-      <link>http://localhost:1313/author/tengfei-liu/</link>
+      <link>https://zhaoqma.github.io/author/tengfei-liu/</link>
     </image>
     
     <item>
       <title>Tengfei Liu</title>
-      <link>http://localhost:1313/author/tengfei-liu/</link>
+      <link>https://zhaoqma.github.io/author/tengfei-liu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/tengfei-liu/</guid>
+      <guid>https://zhaoqma.github.io/author/tengfei-liu/</guid>
       <description>&lt;!-- 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. --&gt;
