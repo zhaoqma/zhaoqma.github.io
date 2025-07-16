@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xin Wang | Future Media Computing Lab</title>
-    <link>http://localhost:1313/author/xin-wang/</link>
-      <atom:link href="http://localhost:1313/author/xin-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/zhaoqma.github.io/author/xin-wang/</link>
+      <atom:link href="http://localhost:1313/zhaoqma.github.io/author/xin-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Xin Wang</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu16151008530422415607.png</url>
+      <url>http://localhost:1313/zhaoqma.github.io/media/icon_hu16151008530422415607.png</url>
       <title>Xin Wang</title>
-      <link>http://localhost:1313/author/xin-wang/</link>
+      <link>http://localhost:1313/zhaoqma.github.io/author/xin-wang/</link>
     </image>
     
     <item>
       <title>A Survey of Deep Active Learning</title>
-      <link>http://localhost:1313/publication/2021-10-01-deep-active-learning/</link>
+      <link>http://localhost:1313/zhaoqma.github.io/publication/2021-10-01-deep-active-learning/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2021-10-01-deep-active-learning/</guid>
+      <guid>http://localhost:1313/zhaoqma.github.io/publication/2021-10-01-deep-active-learning/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -40,9 +40,9 @@
     
     <item>
       <title>A Comprehensive Survey of Neural Architecture Search: Challenges and Solutions</title>
-      <link>http://localhost:1313/publication/2021-05-01-a-comprehensive-survey-of-neural-architecture-search/</link>
+      <link>http://localhost:1313/zhaoqma.github.io/publication/2021-05-01-a-comprehensive-survey-of-neural-architecture-search/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2021-05-01-a-comprehensive-survey-of-neural-architecture-search/</guid>
+      <guid>http://localhost:1313/zhaoqma.github.io/publication/2021-05-01-a-comprehensive-survey-of-neural-architecture-search/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eric P. Xing | Future Media Computing Lab</title>
-    <link>http://localhost:1313/author/eric-p.-xing/</link>
-      <atom:link href="http://localhost:1313/author/eric-p.-xing/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/zhaoqma.github.io/author/eric-p.-xing/</link>
+      <atom:link href="http://localhost:1313/zhaoqma.github.io/author/eric-p.-xing/index.xml" rel="self" type="application/rss+xml" />
     <description>Eric P. Xing</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu16151008530422415607.png</url>
+      <url>http://localhost:1313/zhaoqma.github.io/media/icon_hu16151008530422415607.png</url>
       <title>Eric P. Xing</title>
-      <link>http://localhost:1313/author/eric-p.-xing/</link>
+      <link>http://localhost:1313/zhaoqma.github.io/author/eric-p.-xing/</link>
     </image>
     
     <item>
       <title>Semantic Pooling for Complex Event Analysis in Untrimmed Videos</title>
-      <link>http://localhost:1313/publication/2017-08-01-semantic-pooling/</link>
+      <link>http://localhost:1313/zhaoqma.github.io/publication/2017-08-01-semantic-pooling/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2017-08-01-semantic-pooling/</guid>
+      <guid>http://localhost:1313/zhaoqma.github.io/publication/2017-08-01-semantic-pooling/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

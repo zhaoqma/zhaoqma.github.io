@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Visual Relationship Recognition | Future Media Computing Lab</title>
-    <link>http://localhost:1313/tag/visual-relationship-recognition/</link>
-      <atom:link href="http://localhost:1313/tag/visual-relationship-recognition/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/zhaoqma.github.io/tag/visual-relationship-recognition/</link>
+      <atom:link href="http://localhost:1313/zhaoqma.github.io/tag/visual-relationship-recognition/index.xml" rel="self" type="application/rss+xml" />
     <description>Visual Relationship Recognition</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu16151008530422415607.png</url>
+      <url>http://localhost:1313/zhaoqma.github.io/media/icon_hu16151008530422415607.png</url>
       <title>Visual Relationship Recognition</title>
-      <link>http://localhost:1313/tag/visual-relationship-recognition/</link>
+      <link>http://localhost:1313/zhaoqma.github.io/tag/visual-relationship-recognition/</link>
     </image>
     
     <item>
       <title>A Comprehensive Survey of Scene Graphs: Generation and Application</title>
-      <link>http://localhost:1313/publication/2023-01-01-a-comprehensive-survey-of-scene-graphs/</link>
+      <link>http://localhost:1313/zhaoqma.github.io/publication/2023-01-01-a-comprehensive-survey-of-scene-graphs/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2023-01-01-a-comprehensive-survey-of-scene-graphs/</guid>
+      <guid>http://localhost:1313/zhaoqma.github.io/publication/2023-01-01-a-comprehensive-survey-of-scene-graphs/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
