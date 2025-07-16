@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wenlin Wu | Future Media Computing Lab</title>
-    <link>http://localhost:1313/author/wenlin-wu/</link>
-      <atom:link href="http://localhost:1313/author/wenlin-wu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zhaoqma.github.io:63483/author/wenlin-wu/</link>
+      <atom:link href="https://zhaoqma.github.io:63483/author/wenlin-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Wenlin Wu</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/wenlin-wu/avatar_hu877014179362052061.jpg</url>
+      <url>https://zhaoqma.github.io:63483/author/wenlin-wu/avatar_hu877014179362052061.jpg</url>
       <title>Wenlin Wu</title>
-      <link>http://localhost:1313/author/wenlin-wu/</link>
+      <link>https://zhaoqma.github.io:63483/author/wenlin-wu/</link>
     </image>
     
     <item>
       <title>Wenlin Wu</title>
-      <link>http://localhost:1313/author/wenlin-wu/</link>
+      <link>https://zhaoqma.github.io:63483/author/wenlin-wu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/wenlin-wu/</guid>
+      <guid>https://zhaoqma.github.io:63483/author/wenlin-wu/</guid>
       <description>&lt;!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. --&gt;

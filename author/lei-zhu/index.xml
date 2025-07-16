@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lei Zhu | Future Media Computing Lab</title>
-    <link>http://localhost:1313/author/lei-zhu/</link>
-      <atom:link href="http://localhost:1313/author/lei-zhu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zhaoqma.github.io:63483/author/lei-zhu/</link>
+      <atom:link href="https://zhaoqma.github.io:63483/author/lei-zhu/index.xml" rel="self" type="application/rss+xml" />
     <description>Lei Zhu</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu16151008530422415607.png</url>
+      <url>https://zhaoqma.github.io:63483/media/icon_hu16151008530422415607.png</url>
       <title>Lei Zhu</title>
-      <link>http://localhost:1313/author/lei-zhu/</link>
+      <link>https://zhaoqma.github.io:63483/author/lei-zhu/</link>
     </image>
     
     <item>
       <title>ZeroNAS: Differentiable Generative Adversarial Networks Search for Zero-Shot Learning</title>
-      <link>http://localhost:1313/publication/2023-12-05-zeronas/</link>
+      <link>https://zhaoqma.github.io:63483/publication/2023-12-05-zeronas/</link>
       <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2023-12-05-zeronas/</guid>
+      <guid>https://zhaoqma.github.io:63483/publication/2023-12-05-zeronas/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guangrun Wang | Future Media Computing Lab</title>
-    <link>http://localhost:1313/author/guangrun-wang/</link>
-      <atom:link href="http://localhost:1313/author/guangrun-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zhaoqma.github.io:63483/author/guangrun-wang/</link>
+      <atom:link href="https://zhaoqma.github.io:63483/author/guangrun-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Guangrun Wang</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu16151008530422415607.png</url>
+      <url>https://zhaoqma.github.io:63483/media/icon_hu16151008530422415607.png</url>
       <title>Guangrun Wang</title>
-      <link>http://localhost:1313/author/guangrun-wang/</link>
+      <link>https://zhaoqma.github.io:63483/author/guangrun-wang/</link>
     </image>
     
     <item>
       <title>DNA Family: Boosting Weight-Sharing NAS With Block-Wise Supervisions</title>
-      <link>http://localhost:1313/publication/2024-05-01-dna-family/</link>
+      <link>https://zhaoqma.github.io:63483/publication/2024-05-01-dna-family/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2024-05-01-dna-family/</guid>
+      <guid>https://zhaoqma.github.io:63483/publication/2024-05-01-dna-family/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -40,9 +40,9 @@
     
     <item>
       <title>DS-Net&#43;&#43;: Dynamic Weight Slicing for Efficient Inference in CNNs and Vision Transformers</title>
-      <link>http://localhost:1313/publication/2024-04-01-ds-net&#43;&#43;/</link>
+      <link>https://zhaoqma.github.io:63483/publication/2024-04-01-ds-net&#43;&#43;/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2024-04-01-ds-net&#43;&#43;/</guid>
+      <guid>https://zhaoqma.github.io:63483/publication/2024-04-01-ds-net&#43;&#43;/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

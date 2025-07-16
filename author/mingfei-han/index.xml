@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mingfei Han | Future Media Computing Lab</title>
-    <link>http://localhost:1313/author/mingfei-han/</link>
-      <atom:link href="http://localhost:1313/author/mingfei-han/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zhaoqma.github.io:63483/author/mingfei-han/</link>
+      <atom:link href="https://zhaoqma.github.io:63483/author/mingfei-han/index.xml" rel="self" type="application/rss+xml" />
     <description>Mingfei Han</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/mingfei-han/avatar_hu5564188692747012392.jpg</url>
+      <url>https://zhaoqma.github.io:63483/author/mingfei-han/avatar_hu5564188692747012392.jpg</url>
       <title>Mingfei Han</title>
-      <link>http://localhost:1313/author/mingfei-han/</link>
+      <link>https://zhaoqma.github.io:63483/author/mingfei-han/</link>
     </image>
     
     <item>
       <title>Mingfei Han</title>
-      <link>http://localhost:1313/author/mingfei-han/</link>
+      <link>https://zhaoqma.github.io:63483/author/mingfei-han/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/mingfei-han/</guid>
+      <guid>https://zhaoqma.github.io:63483/author/mingfei-han/</guid>
       <description>&lt;p&gt;He is working on embodiment learning and vision-text multimodal learning. Especially, he is interested in boosting robots with human videos from web.&lt;/p&gt;
 </description>
     </item>
