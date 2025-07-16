@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ran Ju | Future Media Computing Lab</title>
-    <link>http://localhost:1313/author/ran-ju/</link>
-      <atom:link href="http://localhost:1313/author/ran-ju/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/zhaoqma/zhaoqma.github.io/author/ran-ju/</link>
+      <atom:link href="http://localhost:1313/zhaoqma/zhaoqma.github.io/author/ran-ju/index.xml" rel="self" type="application/rss+xml" />
     <description>Ran Ju</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/ran-ju/avatar_hu15588721026879857435.jpg</url>
+      <url>http://localhost:1313/zhaoqma/zhaoqma.github.io/author/ran-ju/avatar_hu15588721026879857435.jpg</url>
       <title>Ran Ju</title>
-      <link>http://localhost:1313/author/ran-ju/</link>
+      <link>http://localhost:1313/zhaoqma/zhaoqma.github.io/author/ran-ju/</link>
     </image>
     
     <item>
       <title>Ran Ju</title>
-      <link>http://localhost:1313/author/ran-ju/</link>
+      <link>http://localhost:1313/zhaoqma/zhaoqma.github.io/author/ran-ju/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/ran-ju/</guid>
+      <guid>http://localhost:1313/zhaoqma/zhaoqma.github.io/author/ran-ju/</guid>
       <description>&lt;!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. --&gt;

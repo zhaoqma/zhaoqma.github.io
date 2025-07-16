@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xinyi Wang | Future Media Computing Lab</title>
-    <link>http://localhost:1313/author/xinyi-wang/</link>
-      <atom:link href="http://localhost:1313/author/xinyi-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/zhaoqma/zhaoqma.github.io/author/xinyi-wang/</link>
+      <atom:link href="http://localhost:1313/zhaoqma/zhaoqma.github.io/author/xinyi-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Xinyi Wang</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/xinyi-wang/avatar_hu17084084090138007620.jpg</url>
+      <url>http://localhost:1313/zhaoqma/zhaoqma.github.io/author/xinyi-wang/avatar_hu17084084090138007620.jpg</url>
       <title>Xinyi Wang</title>
-      <link>http://localhost:1313/author/xinyi-wang/</link>
+      <link>http://localhost:1313/zhaoqma/zhaoqma.github.io/author/xinyi-wang/</link>
     </image>
     
     <item>
       <title>Xinyi Wang</title>
-      <link>http://localhost:1313/author/xinyi-wang/</link>
+      <link>http://localhost:1313/zhaoqma/zhaoqma.github.io/author/xinyi-wang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/xinyi-wang/</guid>
+      <guid>http://localhost:1313/zhaoqma/zhaoqma.github.io/author/xinyi-wang/</guid>
       <description>&lt;!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. --&gt;
