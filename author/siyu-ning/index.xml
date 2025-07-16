@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Siyu Ning | Future Media Computing Lab</title>
-    <link>https://zhaoqma.github.io:63483/author/siyu-ning/</link>
-      <atom:link href="https://zhaoqma.github.io:63483/author/siyu-ning/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/siyu-ning/</link>
+      <atom:link href="http://localhost:1313/author/siyu-ning/index.xml" rel="self" type="application/rss+xml" />
     <description>Siyu Ning</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://zhaoqma.github.io:63483/author/siyu-ning/avatar_hu17751019211299807873.jpg</url>
+      <url>http://localhost:1313/author/siyu-ning/avatar_hu17751019211299807873.jpg</url>
       <title>Siyu Ning</title>
-      <link>https://zhaoqma.github.io:63483/author/siyu-ning/</link>
+      <link>http://localhost:1313/author/siyu-ning/</link>
     </image>
     
     <item>
       <title>Siyu Ning</title>
-      <link>https://zhaoqma.github.io:63483/author/siyu-ning/</link>
+      <link>http://localhost:1313/author/siyu-ning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://zhaoqma.github.io:63483/author/siyu-ning/</guid>
+      <guid>http://localhost:1313/author/siyu-ning/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://github.com/Gjmustc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/Gjmustc&lt;/a&gt;&lt;/p&gt;
 &lt;!-- 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
