@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yi Yang | Future Media Computing Lab</title>
-    <link>http://localhost:1313/zhaoqma.github.io/author/yi-yang/</link>
-      <atom:link href="http://localhost:1313/zhaoqma.github.io/author/yi-yang/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/yi-yang/</link>
+      <atom:link href="http://localhost:1313/author/yi-yang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yi Yang</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/zhaoqma.github.io/media/icon_hu16151008530422415607.png</url>
+      <url>http://localhost:1313/media/icon_hu16151008530422415607.png</url>
       <title>Yi Yang</title>
-      <link>http://localhost:1313/zhaoqma.github.io/author/yi-yang/</link>
+      <link>http://localhost:1313/author/yi-yang/</link>
     </image>
     
     <item>
       <title>Video Pivoting Unsupervised Multi-Modal Machine Translation</title>
-      <link>http://localhost:1313/zhaoqma.github.io/publication/2023-03-01-video-pivoting-unsupervised-multi-modal-machine-translation/</link>
+      <link>http://localhost:1313/publication/2023-03-01-video-pivoting-unsupervised-multi-modal-machine-translation/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zhaoqma.github.io/publication/2023-03-01-video-pivoting-unsupervised-multi-modal-machine-translation/</guid>
+      <guid>http://localhost:1313/publication/2023-03-01-video-pivoting-unsupervised-multi-modal-machine-translation/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -40,9 +40,9 @@
     
     <item>
       <title>Semantic Pooling for Complex Event Analysis in Untrimmed Videos</title>
-      <link>http://localhost:1313/zhaoqma.github.io/publication/2017-08-01-semantic-pooling/</link>
+      <link>http://localhost:1313/publication/2017-08-01-semantic-pooling/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zhaoqma.github.io/publication/2017-08-01-semantic-pooling/</guid>
+      <guid>http://localhost:1313/publication/2017-08-01-semantic-pooling/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
