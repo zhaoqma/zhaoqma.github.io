@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shirui Pan | Future Media Computing Lab</title>
-    <link>http://localhost:1313/zhaoqma/zhaoqma.github.io/author/shirui-pan/</link>
-      <atom:link href="http://localhost:1313/zhaoqma/zhaoqma.github.io/author/shirui-pan/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/shirui-pan/</link>
+      <atom:link href="http://localhost:1313/author/shirui-pan/index.xml" rel="self" type="application/rss+xml" />
     <description>Shirui Pan</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/zhaoqma/zhaoqma.github.io/media/icon_hu16151008530422415607.png</url>
+      <url>http://localhost:1313/media/icon_hu16151008530422415607.png</url>
       <title>Shirui Pan</title>
-      <link>http://localhost:1313/zhaoqma/zhaoqma.github.io/author/shirui-pan/</link>
+      <link>http://localhost:1313/author/shirui-pan/</link>
     </image>
     
     <item>
       <title>One-Shot Neural Architecture Search: Maximising Diversity to Overcome Catastrophic Forgetting</title>
-      <link>http://localhost:1313/zhaoqma/zhaoqma.github.io/publication/2021-09-01-one-shot-neural-architecture-search/</link>
+      <link>http://localhost:1313/publication/2021-09-01-one-shot-neural-architecture-search/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zhaoqma/zhaoqma.github.io/publication/2021-09-01-one-shot-neural-architecture-search/</guid>
+      <guid>http://localhost:1313/publication/2021-09-01-one-shot-neural-architecture-search/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -40,9 +40,9 @@
     
     <item>
       <title>Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks</title>
-      <link>http://localhost:1313/zhaoqma/zhaoqma.github.io/publication/2020-08-01-connecting-the-dots/</link>
+      <link>http://localhost:1313/publication/2020-08-01-connecting-the-dots/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zhaoqma/zhaoqma.github.io/publication/2020-08-01-connecting-the-dots/</guid>
+      <guid>http://localhost:1313/publication/2020-08-01-connecting-the-dots/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Masked Graph Convolutional Network | Future Media Computing Lab</title>
-    <link>http://localhost:1313/zhaoqma/zhaoqma.github.io/tag/masked-graph-convolutional-network/</link>
-      <atom:link href="http://localhost:1313/zhaoqma/zhaoqma.github.io/tag/masked-graph-convolutional-network/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/masked-graph-convolutional-network/</link>
+      <atom:link href="http://localhost:1313/tag/masked-graph-convolutional-network/index.xml" rel="self" type="application/rss+xml" />
     <description>Masked Graph Convolutional Network</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/zhaoqma/zhaoqma.github.io/media/icon_hu16151008530422415607.png</url>
+      <url>http://localhost:1313/media/icon_hu16151008530422415607.png</url>
       <title>Masked Graph Convolutional Network</title>
-      <link>http://localhost:1313/zhaoqma/zhaoqma.github.io/tag/masked-graph-convolutional-network/</link>
+      <link>http://localhost:1313/tag/masked-graph-convolutional-network/</link>
     </image>
     
     <item>
       <title>Attribute-Guided Collaborative Learning for Partial Person Re-Identification</title>
-      <link>http://localhost:1313/zhaoqma/zhaoqma.github.io/publication/2023-12-01-attribute-guided-collaborative-learning-for-partial-person-re-identification/</link>
+      <link>http://localhost:1313/publication/2023-12-01-attribute-guided-collaborative-learning-for-partial-person-re-identification/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zhaoqma/zhaoqma.github.io/publication/2023-12-01-attribute-guided-collaborative-learning-for-partial-person-re-identification/</guid>
+      <guid>http://localhost:1313/publication/2023-12-01-attribute-guided-collaborative-learning-for-partial-person-re-identification/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Efficient Inference | Future Media Computing Lab</title>
-    <link>http://localhost:1313/zhaoqma/zhaoqma.github.io/tag/efficient-inference/</link>
-      <atom:link href="http://localhost:1313/zhaoqma/zhaoqma.github.io/tag/efficient-inference/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/efficient-inference/</link>
+      <atom:link href="http://localhost:1313/tag/efficient-inference/index.xml" rel="self" type="application/rss+xml" />
     <description>Efficient Inference</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/zhaoqma/zhaoqma.github.io/media/icon_hu16151008530422415607.png</url>
+      <url>http://localhost:1313/media/icon_hu16151008530422415607.png</url>
       <title>Efficient Inference</title>
-      <link>http://localhost:1313/zhaoqma/zhaoqma.github.io/tag/efficient-inference/</link>
+      <link>http://localhost:1313/tag/efficient-inference/</link>
     </image>
     
     <item>
       <title>DS-Net&#43;&#43;: Dynamic Weight Slicing for Efficient Inference in CNNs and Vision Transformers</title>
-      <link>http://localhost:1313/zhaoqma/zhaoqma.github.io/publication/2024-04-01-ds-net&#43;&#43;/</link>
+      <link>http://localhost:1313/publication/2024-04-01-ds-net&#43;&#43;/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zhaoqma/zhaoqma.github.io/publication/2024-04-01-ds-net&#43;&#43;/</guid>
+      <guid>http://localhost:1313/publication/2024-04-01-ds-net&#43;&#43;/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
