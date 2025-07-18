@@ -9738,3 +9738,7 @@ div.chart {
 
 .cta-group {
   justify-content: center; }
+
+.navbar {
+  background-color: #dff114f8 !important;
+  /* 明亮的黄色 */ }
