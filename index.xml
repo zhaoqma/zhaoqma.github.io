@@ -309,18 +309,18 @@ Further event details, including page elements such as image galleries, can be a
     </item>
     
     <item>
-      <title>People</title>
-      <link>https://zhaoqma.github.io/people/</link>
+      <title>Home</title>
+      <link>https://zhaoqma.github.io/home/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://zhaoqma.github.io/people/</guid>
+      <guid>https://zhaoqma.github.io/home/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tour</title>
-      <link>https://zhaoqma.github.io/home/</link>
+      <title>People</title>
+      <link>https://zhaoqma.github.io/people/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://zhaoqma.github.io/home/</guid>
+      <guid>https://zhaoqma.github.io/people/</guid>
       <description></description>
     </item>
     
