@@ -9740,5 +9740,26 @@ div.chart {
   justify-content: center; }
 
 .navbar {
-  background-color: #E5E7EB !important;
-  /* 明亮的黄色 */ }
+  background: linear-gradient(90deg, #2b80a5 0%, #0711da 100%);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-bottom: 2px solid rgba(0, 255, 255, 0.3);
+  box-shadow: 0 4px 32px 0 rgba(0, 255, 255, 0.08);
+  position: relative;
+  z-index: 10; }
+
+@keyframes neon-bar {
+  0% {
+    background-position: 0% 50%; }
+  100% {
+    background-position: 100% 50%; } }
+
+.navbar a, .navbar .nav-link {
+  color: #fff !important;
+  text-shadow: 0 0 8px #00fff0, 0 0 2px #fff;
+  letter-spacing: 1px;
+  transition: color 0.2s; }
+
+.navbar a:hover, .navbar .nav-link:hover {
+  color: #00fff0 !important;
+  text-shadow: 0 0 12px #00fff0, 0 0 4px #fff; }
