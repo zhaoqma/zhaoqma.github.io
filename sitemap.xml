@@ -123,10 +123,6 @@
     <lastmod>2025-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://zhaoqma.github.io/post/</loc>
-    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://zhaoqma.github.io/event/example/</loc>
     <lastmod>2025-07-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -488,6 +484,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://zhaoqma.github.io/home/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://zhaoqma.github.io/post/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

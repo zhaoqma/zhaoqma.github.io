@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Events | Future Media Computing Lab</title>
+    <link>http://localhost:1313/en/event/</link>
+      <atom:link href="http://localhost:1313/en/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Events</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu8538069434143173408.png</url>
+      <title>Recent &amp; Upcoming Events</title>
+      <link>http://localhost:1313/en/event/</link>
+    </image>
+    
+    <item>
+      <title>Future Media Computing Lab Established</title>
+      <link>http://localhost:1313/en/event/example/</link>
+      <pubDate>Tue, 01 Jul 2025 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/event/example/</guid>
+      <description>&lt;!-- 
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

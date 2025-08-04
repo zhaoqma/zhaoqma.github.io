@@ -9743,8 +9743,6 @@ div.chart {
   background: linear-gradient(90deg, #2b80a5 0%, #0711da 100%);
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
-  border-bottom: 2px solid rgba(0, 255, 255, 0.3);
-  box-shadow: 0 4px 32px 0 rgba(0, 255, 255, 0.08);
   position: relative;
   z-index: 10; }
 
@@ -9755,11 +9753,69 @@ div.chart {
     background-position: 100% 50%; } }
 
 .navbar a, .navbar .nav-link {
+  display: flex;
+  align-items: center;
+  font-family: 'Orbitron', 'Arial', sans-serif;
+  font-weight: 700;
+  font-size: 0.85rem;
+  /* 调整字体大小 */
+  line-height: 1.2;
+  /* 调整行高 */
+  letter-spacing: 1px;
   color: #fff !important;
   text-shadow: 0 0 8px #00fff0, 0 0 2px #fff;
-  letter-spacing: 1px;
-  transition: color 0.2s; }
+  transition: color 0.2s;
+  text-align: center;
+  /* 居中对齐 */
+  min-height: 60px;
+  /* 确保有足够高度显示两行文字 */
+  padding: 8px 12px;
+  /* 调整内边距 */ }
+
+/* 只针对菜单项，不影响logo */
+.navbar-nav .nav-link, .navbar-nav a {
+  margin-top: 10px;
+  /* 只让菜单项向下移动 */ }
+
+/* 确保logo不受影响 */
+.navbar-brand, .navbar .navbar-brand {
+  margin-top: 0;
+  /* 重置logo的顶部外边距 */ }
 
 .navbar a:hover, .navbar .nav-link:hover {
   color: #00fff0 !important;
   text-shadow: 0 0 12px #00fff0, 0 0 4px #fff; }
+
+/* 针对中英文分行显示的样式 */
+.navbar .nav-link br, .navbar a br {
+  display: block;
+  content: "";
+  margin: 2px 0;
+  /* 中英文之间的间距 */ }
+
+/* 在小屏幕上调整字体大小 */
+@media (max-width: 768px) {
+  .navbar .nav-link, .navbar a {
+    font-size: 0.8rem;
+    min-height: 50px;
+    padding: 6px 8px; } }
+
+/* Logo样式 - 缩小logo图片 */
+.navbar-brand img, .navbar .navbar-brand img {
+  max-height: 55px;
+  /* 限制最大高度 */
+  width: auto;
+  /* 保持宽高比 */
+  object-fit: contain;
+  /* 保持图片比例 */ }
+
+.navbar-brand, .navbar .navbar-brand {
+  display: flex;
+  align-items: center;
+  padding: 8px 0;
+  /* 调整logo区域的内边距 */ }
+
+/* 在小屏幕上进一步缩小logo */
+@media (max-width: 768px) {
+  .navbar-brand img, .navbar .navbar-brand img {
+    max-height: 32px; } }
