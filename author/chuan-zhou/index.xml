@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chuan Zhou | Future Media Computing Lab</title>
-    <link>https://zhaoqma.github.io/author/chuan-zhou/</link>
-      <atom:link href="https://zhaoqma.github.io/author/chuan-zhou/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/chuan-zhou/</link>
+      <atom:link href="http://localhost:1313/author/chuan-zhou/index.xml" rel="self" type="application/rss+xml" />
     <description>Chuan Zhou</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://zhaoqma.github.io/media/logo_hu8538069434143173408.png</url>
+      <url>http://localhost:1313/media/logo_hu8538069434143173408.png</url>
       <title>Chuan Zhou</title>
-      <link>https://zhaoqma.github.io/author/chuan-zhou/</link>
+      <link>http://localhost:1313/author/chuan-zhou/</link>
     </image>
     
     <item>
       <title>One-Shot Neural Architecture Search: Maximising Diversity to Overcome Catastrophic Forgetting</title>
-      <link>https://zhaoqma.github.io/publication/2021-09-01-one-shot-neural-architecture-search/</link>
+      <link>http://localhost:1313/publication/2021-09-01-one-shot-neural-architecture-search/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://zhaoqma.github.io/publication/2021-09-01-one-shot-neural-architecture-search/</guid>
+      <guid>http://localhost:1313/publication/2021-09-01-one-shot-neural-architecture-search/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

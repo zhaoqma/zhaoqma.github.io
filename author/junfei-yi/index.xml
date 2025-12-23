@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Junfei Yi | Future Media Computing Lab</title>
-    <link>https://zhaoqma.github.io/author/junfei-yi/</link>
-      <atom:link href="https://zhaoqma.github.io/author/junfei-yi/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/junfei-yi/</link>
+      <atom:link href="http://localhost:1313/author/junfei-yi/index.xml" rel="self" type="application/rss+xml" />
     <description>Junfei Yi</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://zhaoqma.github.io/author/junfei-yi/avatar_hu12108690430086197468.jpg</url>
+      <url>http://localhost:1313/author/junfei-yi/avatar_hu12108690430086197468.jpg</url>
       <title>Junfei Yi</title>
-      <link>https://zhaoqma.github.io/author/junfei-yi/</link>
+      <link>http://localhost:1313/author/junfei-yi/</link>
     </image>
     
     <item>
       <title>Junfei Yi</title>
-      <link>https://zhaoqma.github.io/author/junfei-yi/</link>
+      <link>http://localhost:1313/author/junfei-yi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://zhaoqma.github.io/author/junfei-yi/</guid>
+      <guid>http://localhost:1313/author/junfei-yi/</guid>
       <description>&lt;!-- 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. --&gt;

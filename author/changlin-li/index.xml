@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Changlin Li | Future Media Computing Lab</title>
-    <link>https://zhaoqma.github.io/author/changlin-li/</link>
-      <atom:link href="https://zhaoqma.github.io/author/changlin-li/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/changlin-li/</link>
+      <atom:link href="http://localhost:1313/author/changlin-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Changlin Li</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://zhaoqma.github.io/author/changlin-li/avatar_hu17377788262843441077.jpg</url>
+      <url>http://localhost:1313/author/changlin-li/avatar_hu17377788262843441077.jpg</url>
       <title>Changlin Li</title>
-      <link>https://zhaoqma.github.io/author/changlin-li/</link>
+      <link>http://localhost:1313/author/changlin-li/</link>
     </image>
     
     <item>
       <title>Changlin Li</title>
-      <link>https://zhaoqma.github.io/author/changlin-li/</link>
+      <link>http://localhost:1313/author/changlin-li/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://zhaoqma.github.io/author/changlin-li/</guid>
+      <guid>http://localhost:1313/author/changlin-li/</guid>
       <description>&lt;p&gt;李长林博士目前是悉尼科技大学（UTS）的博士后研究员。他于2023年在UTS获得博士学位。在攻读博士学位之前，他在中国科学技术大学（USTC）获得了计算机科学与技术的学士学位。他的研究主要集中在生成式人工智能、高效深度学习方法以及神经网络结构的优化。学术主页：https://scholar.google.com/citations?user=RLAgwBkAAAAJ&lt;/p&gt;
 </description>
     </item>

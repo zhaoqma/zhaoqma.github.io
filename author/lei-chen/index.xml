@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lei Chen | Future Media Computing Lab</title>
-    <link>https://zhaoqma.github.io/author/lei-chen/</link>
-      <atom:link href="https://zhaoqma.github.io/author/lei-chen/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/lei-chen/</link>
+      <atom:link href="http://localhost:1313/author/lei-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Lei Chen</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://zhaoqma.github.io/author/lei-chen/avatar_hu11025597070007570572.jpg</url>
+      <url>http://localhost:1313/author/lei-chen/avatar_hu11025597070007570572.jpg</url>
       <title>Lei Chen</title>
-      <link>https://zhaoqma.github.io/author/lei-chen/</link>
+      <link>http://localhost:1313/author/lei-chen/</link>
     </image>
     
     <item>
       <title>Lei Chen</title>
-      <link>https://zhaoqma.github.io/author/lei-chen/</link>
+      <link>http://localhost:1313/author/lei-chen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://zhaoqma.github.io/author/lei-chen/</guid>
+      <guid>http://localhost:1313/author/lei-chen/</guid>
       <description>&lt;!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. --&gt;

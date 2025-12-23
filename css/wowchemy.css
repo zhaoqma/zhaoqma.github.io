@@ -9819,3 +9819,27 @@ div.chart {
 @media (max-width: 768px) {
   .navbar-brand img, .navbar .navbar-brand img {
     max-height: 32px; } }
+
+/* 隐藏powered-by并添加自定义内容 */
+.powered-by {
+  display: none !important; }
+
+ul.share {
+  display: none !important; }
+
+/* 在footer中添加自定义内容 */
+.site-footer::after,
+footer::after {
+  content: "© 2025 USTC FMC Lab All rights reserved 中国科学技术大学未来媒体计算实验室 版权所有 备案号: 津ICP备2025037114号-1";
+  display: block;
+  text-align: center;
+  font-size: 0.7em;
+  color: #080808;
+  border-top: 1px solid #eee;
+  margin-top: -7%;
+  /* 向上移动10px */ }
+
+.hero-title {
+  font-size: 2.7rem;
+  margin-top: 20%;
+  line-height: 1; }
