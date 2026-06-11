@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Article-Journal | Future Media Computing Lab</title>
-    <link>https://zhaoqma.github.io/publication-type/article-journal/</link>
-      <atom:link href="https://zhaoqma.github.io/publication-type/article-journal/index.xml" rel="self" type="application/rss+xml" />
-    <description>Article-Journal</description>
+    <title>Xiaoyun Xie | Future Media Computing Lab</title>
+    <link>https://zhaoqma.github.io/author/xiaoyun-xie/</link>
+      <atom:link href="https://zhaoqma.github.io/author/xiaoyun-xie/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaoyun Xie</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zhaoqma.github.io/media/logo_hu4635757881063763320.png</url>
-      <title>Article-Journal</title>
-      <link>https://zhaoqma.github.io/publication-type/article-journal/</link>
+      <title>Xiaoyun Xie</title>
+      <link>https://zhaoqma.github.io/author/xiaoyun-xie/</link>
     </image>
     
     <item>
