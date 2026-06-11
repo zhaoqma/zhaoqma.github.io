@@ -7,19 +7,10 @@
     <description>Xun Yang</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/author/xun-yang/avatar_hu11634037885051111708.jpg</url>
+      <url>http://localhost:1313/media/logo_hu4635757881063763320.png</url>
       <title>Xun Yang</title>
       <link>http://localhost:1313/author/xun-yang/</link>
     </image>
-    
-    <item>
-      <title>Xun Yang</title>
-      <link>http://localhost:1313/author/xun-yang/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/xun-yang/</guid>
-      <description>&lt;p&gt;Xun Yang now is a Professor in Department of Electronic Engineering and Information Science (EEIS), University of Science and Technology of China (USTC), Hefei, China. He was a research fellow in NExT++, School of Computing, National University of Singapore from 2018 to 2021. Xun received his Ph.D from Hefei University of Technology in 2017, under the supervision of Prof. Meng Wang. His research interests include information retrieval, computer vision, and multimedia information processing. Moreover, he has served as the PC member and the invited reviewer for top-tier conferences and prestigious journals including ACM MM, ACM MMAsia, AAAI, IJCAI, IEEE TCSVT, IEEE TKDE, IEEE TNNLS, and IEEE TMM.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Dual Encoding for Video Retrieval by Text</title>

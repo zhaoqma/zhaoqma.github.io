@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Future Media Computing Lab</title>
-    <link>http://localhost:1313/tags/</link>
-      <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zhaoqma.github.io/tags/</link>
+      <atom:link href="https://zhaoqma.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo_hu8538069434143173408.png</url>
+      <url>https://zhaoqma.github.io/media/logo_hu4635757881063763320.png</url>
       <title>Tags</title>
-      <link>http://localhost:1313/tags/</link>
+      <link>https://zhaoqma.github.io/tags/</link>
     </image>
     
   </channel>

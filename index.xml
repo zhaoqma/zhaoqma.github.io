@@ -2,318 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Future Media Computing Lab</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://zhaoqma.github.io/</link>
+      <atom:link href="https://zhaoqma.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Future Media Computing Lab</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
-    <item>
-      <title>祝贺 IntelNav 团队荣获多模态机器人学习挑战赛冠军！Congratulations to Team IntelNav for winning the Multimodal Robot Learning Challenge!</title>
-      <link>http://localhost:1313/post/25-10-20-first-place-award/</link>
-      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/25-10-20-first-place-award/</guid>
-      <description>&lt;p&gt;祝贺 IntelNav 团队荣获多模态机器人学习挑战赛冠军！
-Congratulations to Team IntelNav for winning the Multimodal Robot Learning Challenge!&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;IntelNav团队获奖图片&#34; srcset=&#34;
-               /post/25-10-20-first-place-award/award_hu2459767034177512938.webp 400w,
-               /post/25-10-20-first-place-award/award_hu16564296746138945118.webp 760w,
-               /post/25-10-20-first-place-award/award_hu18196060994580458260.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/25-10-20-first-place-award/award_hu2459767034177512938.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;507&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;我们荣幸地宣布，在近期举办的&amp;quot;多模态机器人学习挑战赛&amp;quot;中，来自中国科学技术大学、穆罕默德·本·扎耶德人工智能大学、南洋理工大学及南京大学的联合团队&amp;quot;IntelNav&amp;quot;凭借其在&amp;quot;物理环境中的视觉与语言导航&amp;quot;赛道上的卓越表现，荣获第一名.&lt;/p&gt;
-&lt;p&gt;该团队由郝海虹、韩明飞、向毅、纪伟等研究人员组成，中国科学技术大学的常晓军教授亦为团队成员之一。他们的研究成果展示了在复杂物理环境中结合视觉与语言指令进行高效导航的前沿能力，为具身智能及机器人技术在实际场景中的应用提供了重要推动。&lt;/p&gt;
-&lt;p&gt;这一成就体现了跨机构合作在解决人工智能与机器人领域关键问题上的强大潜力。我们期待该团队未来在相关领域持续探索，取得更多突破性成果。&lt;/p&gt;
-&lt;p&gt;We are pleased to announce that Team IntelNav, a joint team from the University of Science and Technology of China, Mohamed bin Zayed University of Artificial Intelligence, Nanyang Technological University, and Nanjing University, has achieved first place in the recent Multimodal Robot Learning Challenge for their outstanding performance in the &amp;ldquo;Vision-and-Language Navigation in Physical Environments&amp;rdquo; track.&lt;/p&gt;
-&lt;p&gt;The team, comprised of researchers including Haihong Hao, Mingfei Han, Yi Xiang, Wei Ji, and Professor Xiaojun Chang from USTC, demonstrated cutting-edge capabilities in efficient navigation by integrating visual and linguistic instructions in complex physical environments, providing significant impetus for the application of embodied AI and robotics in real-world scenarios.&lt;/p&gt;
-&lt;p&gt;This achievement highlights the strong potential of cross-institutional collaboration in addressing key challenges in AI and robotics. We look forward to the team&amp;rsquo;s continued exploration and further groundbreaking accomplishments in the future.&lt;/p&gt;
-</description>
-    </item>
+    <image>
+      <url>https://zhaoqma.github.io/media/logo_hu4635757881063763320.png</url>
+      <title>Future Media Computing Lab</title>
+      <link>https://zhaoqma.github.io/</link>
+    </image>
     
     <item>
-      <title>未来媒体计算实验室正式成立！Future Media Computing Lab Officially Established！</title>
-      <link>http://localhost:1313/post/20-12-02-icml-best-paper/</link>
-      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/20-12-02-icml-best-paper/</guid>
-      <description>&lt;p&gt;祝贺未来媒体计算实验室正式成立！期待实验室在人工智能和智能媒体计算领域做出开创性的贡献。
-Congratulations on the official establishment of the Future Media Computing Lab! We look forward to the lab making groundbreaking contributions to the field of AI and intelligent media computing.&lt;/p&gt;
-&lt;p&gt;我们荣幸地宣布，未来媒体计算实验室（FMC）正式成立。该实验室隶属于中国科学技术大学信息科学与技术学院，是国家级前沿研究实验室。实验室由国际知名的多媒体理解与人工智能专家常晓军教授领衔，杨勋教授担任副主任。&lt;/p&gt;
-&lt;p&gt;未来媒体计算实验室致力于推进人工智能驱动的媒体计算前沿技术，重点关注智能内容分析、生成、交互和传输。实验室旨在弥合人类认知与机器感知之间的差距，推动理论基础和实际应用的创新。&lt;/p&gt;
-&lt;p&gt;该实验室目前拥有一批多元化的博士生、硕士生和博士后研究人员，并与各机构和国际大学密切合作。FMCL 致力于营造开放、包容、创新的研究环境，欢迎热衷于塑造智能媒体未来的学生和学者。&lt;/p&gt;
-&lt;p&gt;我们积极寻求学术合作伙伴、产业合作以及优秀的研究人员。如果您有兴趣加入我们，或与我们携手合作，共同解决人工智能与媒体交叉领域的激动人心的问题，请通过我们的官方网站联系我们，或直接发送邮件至 &lt;a href=&#34;mailto:xjchang@ustc.edu.cn&#34;&gt;xjchang@ustc.edu.cn&lt;/a&gt;。&lt;/p&gt;
-&lt;p&gt;We are pleased to announce the official establishment of the Future Media Computing Lab (FMC), a cutting-edge research lab under the School of Information Science and Technology at the University of Science and Technology of China. The lab is led by Professor Xiaojun Chang, a globally recognized expert in multimedia understanding and artificial intelligence, with Professor Xun Yang serving as the deputy director.&lt;/p&gt;
-&lt;p&gt;Future Media Computing Lab is committed to advancing the frontiers of AI-driven media computing, with a focus on intelligent content analysis, generation, interaction, and transmission. The lab aims to bridge the gap between human cognition and machine perception, driving innovation in both theoretical foundations and real-world applications.&lt;/p&gt;
-&lt;p&gt;The lab currently hosts a diverse group of Ph.D. students, master’s candidates, and postdoctoral researchers, with close collaborations across institutions and international universities. FMCL fosters an open, inclusive, and innovative research environment, welcoming students and scholars with a passion for shaping the future of intelligent media.&lt;/p&gt;
-&lt;p&gt;We actively seek academic partnerships, industry collaborations, and talented researchers. If you are interested in joining us or working together on exciting problems at the intersection of AI and media, please reach out via our official website or contact us directly at &lt;a href=&#34;mailto:xjchang@ustc.edu.cn&#34;&gt;xjchang@ustc.edu.cn&lt;/a&gt;.&lt;/p&gt;</description>
+      <title>MedLLM实验室正式成立！MedLLM Lab Officially Established！</title>
+      <link>https://zhaoqma.github.io/post/20-12-02-icml-best-paper/</link>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://zhaoqma.github.io/post/20-12-02-icml-best-paper/</guid>
+      <description>&lt;p&gt;祝贺MedLLM实验室正式成立！期待实验室在医学图像处理和大预言模型领域做出开创性的贡献。
+Congratulations on the official establishment of the MedLLM Lab! We look forward to the laboratory making pioneering contributions in the fields of medical image processing and large language models.&lt;/p&gt;
+&lt;p&gt;我们荣幸地宣布，MedLLM实验室正式成立。该实验室隶属于齐鲁工业大学数学与人工智能学院。实验室由国际知名的人工智能专家刘瑞霞教授领衔。&lt;/p&gt;
+&lt;p&gt;MedLLM实验室致力于推进人工智能驱动的医学辅助诊断前沿技术，重点关注智能内容分析、生成、交互和传输。实验室旨在弥合人类认知与机器感知之间的差距，推动理论基础和实际应用的创新。&lt;/p&gt;
+&lt;p&gt;该实验室目前拥有一批多元化的博士生、硕士生，并与各机构和国际大学密切合作。MedLLM 致力于营造开放、包容、创新的研究环境，欢迎热衷于塑造医学人工智能未来的学生和学者。&lt;/p&gt;
+&lt;p&gt;我们积极寻求学术合作伙伴、产业合作以及优秀的研究人员。如果您有兴趣加入我们，或与我们携手合作，共同解决人工智能与医学领域的激动人心的问题，请通过我们的官方网站联系我们，或直接发送邮件至 &lt;a href=&#34;mailto:liurx@qlu.edu.cn&#34;&gt;liurx@qlu.edu.cn&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;We are delighted to announce the official establishment of the MedLLM Laboratory. The laboratory is affiliated with the School of Mathematics and Artificial Intelligence at Qilu University of Technology. It is led by Professor Liu Ruixia, an internationally renowned expert in artificial intelligence.&lt;/p&gt;
+&lt;p&gt;The MedLLM Laboratory is dedicated to advancing cutting-edge AI-driven medical diagnostic support technologies, with a particular focus on intelligent content analysis, generation, interaction and transmission. The laboratory aims to bridge the gap between human cognition and machine perception, driving innovation in both theoretical foundations and practical applications.&lt;/p&gt;
+&lt;p&gt;The laboratory currently comprises a diverse group of PhD and Master’s students and collaborates closely with various institutions and international universities. MedLLM is committed to fostering an open, inclusive and innovative research environment, and welcomes students and scholars passionate about shaping the future of medical artificial intelligence.&lt;/p&gt;
+&lt;p&gt;We actively seek academic partnerships, industry collaborations and outstanding researchers. If you are interested in joining us or collaborating with us to tackle exciting challenges at the intersection of artificial intelligence and medicine, please contact us via our official website or email us directly at &lt;a href=&#34;mailto:liurx@qlu.edu.cn&#34;&gt;liurx@qlu.edu.cn&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Future Media Computing Lab Established</title>
-      <link>http://localhost:1313/event/example/</link>
+      <link>https://zhaoqma.github.io/event/example/</link>
       <pubDate>Tue, 01 Jul 2025 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/example/</guid>
+      <guid>https://zhaoqma.github.io/event/example/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DNA Family: Boosting Weight-Sharing NAS With Block-Wise Supervisions</title>
-      <link>http://localhost:1313/publication/2024-05-01-dna-family/</link>
+      <link>https://zhaoqma.github.io/publication/2024-05-01-dna-family/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2024-05-01-dna-family/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>DS-Net&#43;&#43;: Dynamic Weight Slicing for Efficient Inference in CNNs and Vision Transformers</title>
-      <link>http://localhost:1313/publication/2024-04-01-ds-net&#43;&#43;/</link>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2024-04-01-ds-net&#43;&#43;/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>TN-ZSTAD: Transferable Network for Zero-Shot Temporal Activity Detection</title>
-      <link>http://localhost:1313/publication/2024-03-05-tn-zstad/</link>
-      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2024-03-05-tn-zstad/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Semantics-Guided Contrastive Network for Zero-Shot Object Detection</title>
-      <link>http://localhost:1313/publication/2024-03-01-semantics-guided/</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2024-03-01-semantics-guided/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Simple Primitives With Feasibility- and Contextuality-Dependence for Open-World Compositional Zero-Shot Learning</title>
-      <link>http://localhost:1313/publication/2024-01-01-sad-sp/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2024-01-01-sad-sp/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ZeroNAS: Differentiable Generative Adversarial Networks Search for Zero-Shot Learning</title>
-      <link>http://localhost:1313/publication/2023-12-05-zeronas/</link>
-      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2023-12-05-zeronas/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Attribute-Guided Collaborative Learning for Partial Person Re-Identification</title>
-      <link>http://localhost:1313/publication/2023-12-01-attribute-guided-collaborative-learning-for-partial-person-re-identification/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2023-12-01-attribute-guided-collaborative-learning-for-partial-person-re-identification/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>When Object Detection Meets Knowledge Distillation: A Survey</title>
-      <link>http://localhost:1313/publication/2023-08-01-when-object-detection-meets-knowledge-distillation/</link>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2023-08-01-when-object-detection-meets-knowledge-distillation/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Video Pivoting Unsupervised Multi-Modal Machine Translation</title>
-      <link>http://localhost:1313/publication/2023-03-01-video-pivoting-unsupervised-multi-modal-machine-translation/</link>
-      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2023-03-01-video-pivoting-unsupervised-multi-modal-machine-translation/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Comprehensive Survey of Scene Graphs: Generation and Application</title>
-      <link>http://localhost:1313/publication/2023-01-01-a-comprehensive-survey-of-scene-graphs/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2023-01-01-a-comprehensive-survey-of-scene-graphs/</guid>
+      <guid>https://zhaoqma.github.io/publication/2024-05-01-dna-family/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -337,189 +65,33 @@ Congratulations on the official establishment of the Future Media Computing Lab!
     
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://zhaoqma.github.io/contact/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://zhaoqma.github.io/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Home</title>
-      <link>http://localhost:1313/home/</link>
+      <link>https://zhaoqma.github.io/home/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/</guid>
+      <guid>https://zhaoqma.github.io/home/</guid>
       <description></description>
     </item>
     
     <item>
       <title>People</title>
-      <link>http://localhost:1313/people/</link>
+      <link>https://zhaoqma.github.io/people/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/people/</guid>
+      <guid>https://zhaoqma.github.io/people/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A Survey of Deep Active Learning</title>
-      <link>http://localhost:1313/publication/2021-10-01-deep-active-learning/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2021-10-01-deep-active-learning/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>One-Shot Neural Architecture Search: Maximising Diversity to Overcome Catastrophic Forgetting</title>
-      <link>http://localhost:1313/publication/2021-09-01-one-shot-neural-architecture-search/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2021-09-01-one-shot-neural-architecture-search/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Comprehensive Survey of Neural Architecture Search: Challenges and Solutions</title>
-      <link>http://localhost:1313/publication/2021-05-01-a-comprehensive-survey-of-neural-architecture-search/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2021-05-01-a-comprehensive-survey-of-neural-architecture-search/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Dual Encoding for Video Retrieval by Text</title>
-      <link>http://localhost:1313/publication/2021-02-01-dual-encoding-for-video-retrieval-by-text/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2021-02-01-dual-encoding-for-video-retrieval-by-text/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks</title>
-      <link>http://localhost:1313/publication/2020-08-01-connecting-the-dots/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2020-08-01-connecting-the-dots/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Semantic Pooling for Complex Event Analysis in Untrimmed Videos</title>
-      <link>http://localhost:1313/publication/2017-08-01-semantic-pooling/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2017-08-01-semantic-pooling/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
       <title></title>
-      <link>http://localhost:1313/admin/config.yml</link>
+      <link>https://zhaoqma.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/admin/config.yml</guid>
+      <guid>https://zhaoqma.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
